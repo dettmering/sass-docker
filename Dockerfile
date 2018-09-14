@@ -1,4 +1,4 @@
-FROM ruby:2.3.7-alpine3.7
+FROM ruby:2.2
 
 RUN gem install sass
 
